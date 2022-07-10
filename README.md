@@ -10,10 +10,10 @@
 
 
 ## Coursera
-
-- Machine learning: https://www.coursera.org/account/accomplishments/certificate/Y5H3SUARPHVU
-- Modern Big Data Analysis with SQL: https://www.coursera.org/account/accomplishments/specialization/certificate/7LFJDUEAW9F5
+- Machine Learning: https://www.coursera.org/account/accomplishments/certificate/Y5H3SUARPHVU
 - Deep Learning: https://www.coursera.org/account/accomplishments/specialization/certificate/HGJSEXVWY7B9
+- Reinforcement Learning: https://www.coursera.org/account/accomplishments/specialization/certificate/7853NAAMH2NC
+- Modern Big Data Analysis with SQL: https://www.coursera.org/account/accomplishments/specialization/certificate/7LFJDUEAW9F5
 - AI for Medicine: https://www.coursera.org/account/accomplishments/specialization/certificate/LDLRNJJC9LMT
 
 ## Udemy

@@ -18,4 +18,4 @@
 - AI for Medicine: https://www.coursera.org/account/accomplishments/specialization/certificate/LDLRNJJC9LMT
 
 ## Udemy
-- Apache Airflow: The Hands-On Guide (80% done)
+- Apache Airflow: The Hands-On Guide
